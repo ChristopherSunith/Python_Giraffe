@@ -1,5 +1,6 @@
 character_name = "Tom"
-character_age = "50"
+character_age = 50.987
+is_male = True
 print("There was once a man named " + character_name + ", ")
 print("He was " + character_age + " years old.")
 
